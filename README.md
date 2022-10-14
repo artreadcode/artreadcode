@@ -1,4 +1,4 @@
-Hi, I'm **<span style='background-color:#fff5b1'>Suyeon</span>**|suːˈiːən|.
+Hi, I'm **<span style='background-color:#fff5b1'>Suyeon</span>**|suːˈiːən|. (Legal name: 박수연(Suyeon Park), English name: Cameron)
 
 I'm a **student researcher** studying for neurosensors and brain science at **Yonsei University**.
 
