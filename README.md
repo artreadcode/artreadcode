@@ -4,7 +4,7 @@ I'm a **student researcher** studying for neurosensors and brain science at **Yo
 
 On the side I'm trying to *combine visual experiences with computer programming*, mostly *focused on New media art & Quantum computing*. I'm also *self-studying hard such like Physics and Matrial science*.
 
-Feel free to send me an [email](mailto:astrydpark@nformare.com), find me on [twitter](https://twitter.com/artreadcode), or check out some writings on my [personal blog](https://astrydpark.com).
+Feel free to send me an [email](mailto:astrydpark@gmail.com), or check out some writings on my [personal blog](https://astrydpark.com)(under construction).
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=camwalker1115)
 
