@@ -1,4 +1,4 @@
-Hi, I'm **<span style='background-color:#fff5b1'>Suyeon</span>**|suːˈiːən|. (Legal name: 박수연(Suyeon Park), Perferred name: Cameron)
+Hi, I'm **<span style='background-color:#fff5b1'>Suyeon</span>**|suːˈiːən|. (Legal name: 박수연(Suyeon Park), Preferred name: Astryd)
 
 I'm a **student researcher** studying neuro sensors and brain science at **Yonsei University**.
 
