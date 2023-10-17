@@ -1,6 +1,8 @@
 Hi, I'm **<span style='background-color:#fff5b1'>Suyeon</span>**|suːˈiːən|. (Legal name: 박수연(Suyeon Park), Preferred name: Astryd)
 
-I'm a **student researcher** studying neuro sensors and brain science at **Yonsei University**.
+I am now a postgraduate student in **MSc Creative Computing** at **University of the Arts London** where I am exploring the connection between creative artworks, quantum computing and neuroscience.
+
+I was a **student researcher** studying neuro sensors and brain science at **Yonsei University**.
 
 On the side I'm trying to *combine visual experiences with computer programming*, mostly *focused on New media art & Quantum computing*. I'm also *self-studying hard such as Physics and Material science*.
 
