@@ -6,6 +6,4 @@ I was a **student researcher** studying nano-scale neural probes and materal sci
 
 Feel free to send me an [email](mailto:artreadcode@gmail.com), or check out my [website](https://artreadcode.com)(under construction).
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=camwalker1115)
-
 Peace. ✌🏻
