@@ -7,3 +7,6 @@ I was a **student researcher** developing nano-scale neural probes and materal s
 Feel free to send me an [email](mailto:artreadcode@gmail.com), or check out my [website](https://artreadcode.com)(under construction).
 
 Peace. ✌🏻
+
+[![Summary](https://github-profile-trophy.vercel.app/?username=artreadcode&theme=dracula&column=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=artreadcode&layout=donut&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
